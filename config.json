@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpetch",
+        "uuid": 7863754,
+        "checksum": "bbnfep"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
